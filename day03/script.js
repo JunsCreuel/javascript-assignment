@@ -26,4 +26,4 @@ secondMovieDiv.classList.add("border","rounded","p-3","mb-2");
 
 movieList.append(secondMovieDiv);
 
-// secondMovieDiv.remove();
+//secondMovieDiv.remove();
