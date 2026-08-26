@@ -1,9 +1,10 @@
 const title = "인터스텔라"
-const voteAverage = 8.7;
+const voteAverage = 8.4;
 const voteCount = 32000;
 const popularity = 150.5;
 const releaseDate = "2014-11-05";
 const originalLanguage = "en";
+const ratingText = voteAverage >= 8 ? "추천 영화" : "일반 영화";
 
 console.log(title);
 console.log(voteAverage);
