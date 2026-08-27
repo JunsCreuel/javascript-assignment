@@ -36,3 +36,9 @@ searchForm.addEventListener("submit", (event) => {
   const searchTerm = searchInput.value.trim().toLowerCase();
   searchResult.textContent = searchTerm;
 });
+
+/* 
+A : find()
+B : filter ()
+C : map() 
+*/
